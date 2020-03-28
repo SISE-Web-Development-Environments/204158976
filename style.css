@@ -39,7 +39,7 @@ ul {
 	font-size: 20px;
 	line-height: 40px;
 	font-weight: bold;  
-	background-color:papayawhip;
+	background-color:rgb(191, 234, 236);
 	background-image: url('myPhotos\pic1.jpg');
 	background-size: cover;
 }
@@ -63,13 +63,13 @@ ul {
 	color:rgb(45, 93, 13) ;
 	margin: 0;
 	padding: 0px 0px 6px 0px;
-	font-size: 20px;
+	font-size: 30px;
 	line-height: 30px;
  } 
 
 
 h2 {
-	font-size: 18;
+	font-size: 30;
 	font-style: italic;
 	color: rgb(4, 102, 25);
 }
