@@ -39,7 +39,7 @@ ul {
 	font-size: 20px;
 	line-height: 40px;
 	font-weight: bold;  
-	background-image: url("myPhotos\back.jpg");
+	background-image: url('myPhotos\back.jpg');
 	background-size: cover;
 }
 
