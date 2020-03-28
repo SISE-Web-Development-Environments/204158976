@@ -16,7 +16,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: rgb(56, 47, 177);
+	background-color: rgb(105, 96, 223);
  }
 
  li {
@@ -39,7 +39,8 @@ ul {
 	font-size: 20px;
 	line-height: 40px;
 	font-weight: bold;  
-	background-image: url('myPhotos\back.jpg');
+	background-color:papayawhip;
+	background-image: url('myPhotos\pic1.jpg');
 	background-size: cover;
 }
 
